@@ -1,5 +1,5 @@
 ---
-title: ""the_y_coding_standard: I Encoded My Entire Engineering Brain Into a Claude Code Plugin"
+title: "The-y-coding-standard"
 date: "2026-06-08"
 tags: ["AI Engineering", "Claude Code", "Open Source", "Developer Tools", "Agentic AI", "Software Architecture"]
 excerpt: "A deep dive into how I built an open-source Claude Code plugin that makes AI agents write code exactly the way I would - silently, consistently, across every project and every session."
